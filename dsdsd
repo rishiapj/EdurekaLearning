@@ -1,0 +1,35 @@
+[33mcommit c2dde15a186f0b6491aeee84268af511e95207a5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: rishikesh <rishi.zinng@gmail.com>
+Date:   Sat Apr 4 23:34:07 2020 +0530
+
+    deleted a.txt b.txt
+
+[33mcommit 369e6fe18d04c6322bce35345386a78e4249228b[m
+Author: rishikesh <rishi.zinng@gmail.com>
+Date:   Sat Apr 4 23:28:30 2020 +0530
+
+    commit a.txt in local repository
+
+[33mcommit ecc3ef40a451de6611a5dcf34fbb7eeacb8ccdaf[m
+Author: rishikesh <rishi.zinng@gmail.com>
+Date:   Sat Apr 4 23:08:32 2020 +0530
+
+    b.txt and c.txt
+
+[33mcommit 7486850d67a9fcf67c17731d3731a6383759b3aa[m
+Author: rishikesh <rishi.zinng@gmail.com>
+Date:   Sat Apr 4 22:56:30 2020 +0530
+
+    added to local repository
+
+[33mcommit 1307f8c202dace80ccce3c959b19242a3b58842f[m
+Author: rishikesh <rishi.zinng@gmail.com>
+Date:   Sat Apr 4 22:39:19 2020 +0530
+
+    this is demo page checkin
+
+[33mcommit 69b3798d7d44b67f2614ec016fa1c27644b90283[m
+Author: rishikesh <rishi.zinng@gmail.com>
+Date:   Sat Apr 4 22:37:14 2020 +0530
+
+    first page
